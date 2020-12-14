@@ -1,0 +1,33 @@
+/*GENERAL STYLES*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #6d6875;
+}
+
+.h1 {
+    font-size: 30px;
+}
+
+.p {
+    font-size: 22px;
+    text-align: center;
+}
+
+.h1-prop {
+padding-top:60px;
+padding-bottom: 30px;
+text-align: center;
+}
+
+.p-prop {
+    padding-top:30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
